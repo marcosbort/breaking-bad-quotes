@@ -1,0 +1,2 @@
+API end-point:
+https://breakingbadapi.com/api/quote/random
